@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SkynetCli - init" type="Application" factoryName="Application">
+    <envs>
+      <env name="SOPHIA_APIKEY" value="" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.datio.skynet.cli.SkynetCli" />
+    <module name="fdev" />
+    <option name="PROGRAM_PARAMETERS" value="init --spreadsheet 1361zMpVS_9h6mDOwGbjWCMV6TBFjCnql2XLx3_h_c6Y --uuaa fdev --table tfdevshoes --freq inc --force false --enforcement false" />
+    <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.datio.skynet.cli.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
